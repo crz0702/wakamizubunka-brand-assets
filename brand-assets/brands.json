@@ -1,0 +1,408 @@
+{
+  "schemaVersion": 1,
+  "updated": "2026-10-19",
+  "scope": "public_brand_asset_projection",
+  "brands": [
+    {
+      "id": "wakamizu-bunka",
+      "type": "group",
+      "name": {
+        "display": "若水文化",
+        "full": "WAKAMIZU BUNKA"
+      },
+      "logo": {
+        "full_color": "wakamizu-bunka/logo/wakamizu-bunka_full_color_477.png",
+        "full_svg": null,
+        "symbol_color": "wakamizu-bunka/logo/wakamizu-bunka_symbol_color.svg",
+        "symbol_black": "wakamizu-bunka/logo/wakamizu-bunka_symbol_black.svg",
+        "symbol_white": "wakamizu-bunka/logo/wakamizu-bunka_symbol_white.svg"
+      },
+      "photo": {
+        "path": "photos/store-emily-interior.webp",
+        "caption": "旗下 Emily Garden 店内照片；并非集团办公室",
+        "kind": "集团旗下门店室内实拍"
+      },
+      "colors": {
+        "primary": {
+          "hex": "#236864",
+          "source": "logo",
+          "confirmed": false,
+          "contrastWhite": 6.49,
+          "contrastSiteBackground": 6.2,
+          "textAllowed": true,
+          "smallGraphicAllowed": true
+        },
+        "palette": [
+          {
+            "hex": "#236864",
+            "source": "logo",
+            "confirmed": false,
+            "contrastWhite": 6.49,
+            "contrastSiteBackground": 6.2,
+            "textAllowed": true,
+            "smallGraphicAllowed": true
+          }
+        ]
+      },
+      "missing": [
+        "完整中文Logo目前仅有原生477px文件；独立水纹符号有原生SVG。"
+      ]
+    },
+    {
+      "id": "emily-garden",
+      "type": "store",
+      "name": {
+        "display": "Emily Garden",
+        "full": "Emily Garden Nail"
+      },
+      "logo": {
+        "full_color": "emily-garden/logo/emily-garden_full_color.svg",
+        "full_white": "emily-garden/logo/emily-garden_full_white.svg",
+        "symbol_color": "emily-garden/logo/emily-garden_symbol_color.svg",
+        "full_color_green_outline": "emily-garden/logo/green-outline/emily-garden_full_color.svg",
+        "full_color_round_lockup": "emily-garden/logo/round-lockup/emily-garden_full_color.svg",
+        "full_black_native_half_opacity": "emily-garden/logo/native-half-black/emily-garden_full_black.svg"
+      },
+      "photo": {
+        "path": "photos/store-emily-interior.webp",
+        "kind": "门店室内实拍",
+        "caption": "Emily Garden 店内，色板墙与纱帘"
+      },
+      "area": {
+        "zh": "六本木・赤坂",
+        "ja": "六本木・赤坂"
+      },
+      "urls": {
+        "site": "https://emily-garden.com/"
+      },
+      "colors": {
+        "primary": {
+          "hex": "#9FBCA9",
+          "source": "logo",
+          "confirmed": false,
+          "contrastWhite": 2.051,
+          "contrastSiteBackground": 1.959,
+          "textAllowed": false,
+          "smallGraphicAllowed": false
+        },
+        "palette": [
+          {
+            "hex": "#9FBCA9",
+            "source": "logo",
+            "confirmed": false,
+            "contrastWhite": 2.051,
+            "contrastSiteBackground": 1.959,
+            "textAllowed": false,
+            "smallGraphicAllowed": false
+          },
+          {
+            "hex": "#FFD8D7",
+            "source": "logo",
+            "confirmed": false,
+            "contrastWhite": 1.308,
+            "contrastSiteBackground": 1.25,
+            "textAllowed": false,
+            "smallGraphicAllowed": false
+          },
+          {
+            "hex": "#000000",
+            "source": "logo",
+            "confirmed": false,
+            "contrastWhite": 21.0,
+            "contrastSiteBackground": 20.062,
+            "textAllowed": true,
+            "smallGraphicAllowed": true
+          },
+          {
+            "hex": "#157C4F",
+            "source": "site-css",
+            "confirmed": false,
+            "contrastWhite": 5.214,
+            "contrastSiteBackground": 4.981,
+            "textAllowed": true,
+            "smallGraphicAllowed": true
+          },
+          {
+            "hex": "#EEF3EC",
+            "source": "site-css",
+            "confirmed": false,
+            "contrastWhite": 1.125,
+            "contrastSiteBackground": 1.075,
+            "textAllowed": false,
+            "smallGraphicAllowed": false
+          },
+          {
+            "hex": "#CFDCCB",
+            "source": "site-css",
+            "confirmed": false,
+            "contrastWhite": 1.423,
+            "contrastSiteBackground": 1.36,
+            "textAllowed": false,
+            "smallGraphicAllowed": false
+          },
+          {
+            "hex": "#2F4A3A",
+            "source": "site-css",
+            "confirmed": false,
+            "contrastWhite": 9.716,
+            "contrastSiteBackground": 9.282,
+            "textAllowed": true,
+            "smallGraphicAllowed": true
+          },
+          {
+            "hex": "#5B7363",
+            "source": "site-css",
+            "confirmed": false,
+            "contrastWhite": 5.15,
+            "contrastSiteBackground": 4.92,
+            "textAllowed": true,
+            "smallGraphicAllowed": true
+          }
+        ]
+      },
+      "missing": [
+        "完整Logo带细小副标，实际使用时检查最终尺寸；50%黑版保留原生透明度。"
+      ]
+    },
+    {
+      "id": "anna-and-co",
+      "type": "store",
+      "name": {
+        "display": "ANNA&CO.",
+        "full": "ANNA&CO. Nail Salon"
+      },
+      "logo": {
+        "full_color": "anna-and-co/logo/anna-and-co_full_color_1024.png",
+        "full_white": null,
+        "full_black": null,
+        "full_svg": null,
+        "symbol_color": null
+      },
+      "photo": {
+        "path": "photos/store-anna-interior.webp",
+        "kind": "门店室内实拍",
+        "caption": "ANNA&CO. 店内，白色施术台上排着美甲灯"
+      },
+      "area": {
+        "zh": "目黑",
+        "ja": "目黒"
+      },
+      "urls": {
+        "site": "https://anna-and-co.com/"
+      },
+      "colors": {
+        "primary": {
+          "hex": "#4A5466",
+          "source": "logo",
+          "confirmed": false,
+          "contrastWhite": 7.633,
+          "contrastSiteBackground": 7.292,
+          "textAllowed": true,
+          "smallGraphicAllowed": true
+        },
+        "palette": [
+          {
+            "hex": "#4A5466",
+            "source": "logo",
+            "confirmed": false,
+            "contrastWhite": 7.633,
+            "contrastSiteBackground": 7.292,
+            "textAllowed": true,
+            "smallGraphicAllowed": true
+          },
+          {
+            "hex": "#999698",
+            "source": "logo",
+            "confirmed": false,
+            "contrastWhite": 2.929,
+            "contrastSiteBackground": 2.798,
+            "textAllowed": false,
+            "smallGraphicAllowed": false
+          },
+          {
+            "hex": "#BEB9B7",
+            "source": "logo",
+            "confirmed": false,
+            "contrastWhite": 1.942,
+            "contrastSiteBackground": 1.855,
+            "textAllowed": false,
+            "smallGraphicAllowed": false
+          },
+          {
+            "hex": "#3568B2",
+            "source": "site-css",
+            "confirmed": false,
+            "contrastWhite": 5.564,
+            "contrastSiteBackground": 5.315,
+            "textAllowed": true,
+            "smallGraphicAllowed": true
+          },
+          {
+            "hex": "#EAF2FB",
+            "source": "site-css",
+            "confirmed": false,
+            "contrastWhite": 1.129,
+            "contrastSiteBackground": 1.079,
+            "textAllowed": false,
+            "smallGraphicAllowed": false
+          },
+          {
+            "hex": "#C7DBF0",
+            "source": "site-css",
+            "confirmed": false,
+            "contrastWhite": 1.417,
+            "contrastSiteBackground": 1.354,
+            "textAllowed": false,
+            "smallGraphicAllowed": false
+          },
+          {
+            "hex": "#1E3F66",
+            "source": "site-css",
+            "confirmed": false,
+            "contrastWhite": 10.725,
+            "contrastSiteBackground": 10.246,
+            "textAllowed": true,
+            "smallGraphicAllowed": true
+          },
+          {
+            "hex": "#4A6789",
+            "source": "site-css",
+            "confirmed": false,
+            "contrastWhite": 5.846,
+            "contrastSiteBackground": 5.584,
+            "textAllowed": true,
+            "smallGraphicAllowed": true
+          }
+        ]
+      },
+      "missing": [
+        "现有原色文件保留近白底；缺透明或矢量原稿、独立symbol和不放大的2048版。"
+      ]
+    },
+    {
+      "id": "cherry-11",
+      "type": "store",
+      "name": {
+        "display": "Cherry 11",
+        "full": "Cherry 11 Nail Salon"
+      },
+      "logo": {
+        "full_color": "cherry-11/logo/cherry-11_full_color_1024.png",
+        "full_white": null,
+        "full_black": null,
+        "full_svg": null,
+        "symbol_color": null
+      },
+      "photo": {
+        "path": "photos/store-cherry-building.webp",
+        "kind": "建筑外观实拍（非店内照）",
+        "caption": "Cherry 11 所在的セブンビル外观"
+      },
+      "area": {
+        "zh": "高田马场",
+        "ja": "高田馬場"
+      },
+      "urls": {
+        "site": "https://cherry-eleven.com/"
+      },
+      "colors": {
+        "primary": {
+          "hex": "#520207",
+          "source": "logo",
+          "confirmed": false,
+          "contrastWhite": 15.323,
+          "contrastSiteBackground": 14.638,
+          "textAllowed": true,
+          "smallGraphicAllowed": true
+        },
+        "palette": [
+          {
+            "hex": "#520207",
+            "source": "logo",
+            "confirmed": false,
+            "contrastWhite": 15.323,
+            "contrastSiteBackground": 14.638,
+            "textAllowed": true,
+            "smallGraphicAllowed": true
+          },
+          {
+            "hex": "#DEA794",
+            "source": "logo",
+            "confirmed": false,
+            "contrastWhite": 2.087,
+            "contrastSiteBackground": 1.994,
+            "textAllowed": false,
+            "smallGraphicAllowed": false
+          },
+          {
+            "hex": "#7A3029",
+            "source": "logo",
+            "confirmed": false,
+            "contrastWhite": 9.201,
+            "contrastSiteBackground": 8.79,
+            "textAllowed": true,
+            "smallGraphicAllowed": true
+          },
+          {
+            "hex": "#B63042",
+            "source": "site-css",
+            "confirmed": false,
+            "contrastWhite": 6.016,
+            "contrastSiteBackground": 5.748,
+            "textAllowed": true,
+            "smallGraphicAllowed": true
+          },
+          {
+            "hex": "#A3192F",
+            "source": "site-css",
+            "confirmed": false,
+            "contrastWhite": 7.671,
+            "contrastSiteBackground": 7.329,
+            "textAllowed": true,
+            "smallGraphicAllowed": true
+          },
+          {
+            "hex": "#FFFFFF",
+            "source": "site-css",
+            "confirmed": false,
+            "contrastWhite": 1.0,
+            "contrastSiteBackground": 1.047,
+            "textAllowed": false,
+            "smallGraphicAllowed": false
+          },
+          {
+            "hex": "#FBEDF0",
+            "source": "site-css",
+            "confirmed": false,
+            "contrastWhite": 1.137,
+            "contrastSiteBackground": 1.086,
+            "textAllowed": false,
+            "smallGraphicAllowed": false
+          },
+          {
+            "hex": "#F2CBD3",
+            "source": "site-css",
+            "confirmed": false,
+            "contrastWhite": 1.473,
+            "contrastSiteBackground": 1.407,
+            "textAllowed": false,
+            "smallGraphicAllowed": false
+          },
+          {
+            "hex": "#B4505F",
+            "source": "site-css",
+            "confirmed": false,
+            "contrastWhite": 4.937,
+            "contrastSiteBackground": 4.717,
+            "textAllowed": true,
+            "smallGraphicAllowed": true
+          }
+        ]
+      },
+      "missing": [
+        "现有原色文件保留近白底；缺透明或矢量原稿及独立symbol。",
+        "照片背景为建筑外观，非店内照。"
+      ]
+    }
+  ]
+}
